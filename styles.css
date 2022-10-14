@@ -1,0 +1,13 @@
+.gamer{
+    background-color: aquamarine;
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
+.hero{
+    background-color: aquamarine;
+    align-items: center;
+}
+li{
+    list-style: none;
+}
